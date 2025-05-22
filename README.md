@@ -1,4 +1,4 @@
-# Hi there, I'm [jaafar_loulidi_chemai] 👋
+# Hi there, I'm [jaafar_loulidi] 👋
 
 🎓 I'm a student at **1337 School*#UM6P*, passionate about all things code and tech.
 
@@ -25,7 +25,7 @@
 - Email: [jaafar.chmiaa@gmail.com]
 - LinkedIn: [...]
 - 1337 Intra: [jaloulid]
-
+- phone : [0614009743]
 ---
 
 _"The only way to do great work is to love what you do."_ — Steve Jobs
